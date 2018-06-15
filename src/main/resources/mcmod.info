@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extendedsupport",
+  "name": "Extended Support",
+  "description": "Extended mods support for modtweaker.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["juh9870"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
