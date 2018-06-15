@@ -7,8 +7,6 @@ import cf.juh9870.extendedsupport.mods.ActuallyAdditions.handlers.TreasureChest;
 import minetweaker.MineTweakerAPI;
 
 public class ActuallyAdditions {
-
-
     public ActuallyAdditions(){
         MineTweakerAPI.registerClass(AtomicReconstructor.class);
         MineTweakerAPI.registerClass(BallOfFur.class);
